@@ -1,0 +1,85 @@
+{
+    "item.minecraft.nether_star": "Abyssal Star",
+    "item.minecraft.pig_spawn_egg": "Abyssal Shard",
+    "item.minecraft.chicken_spawn_egg": "Diamond Upgrade",
+
+    "enchantment.minecraft.fire_protection":"Blazing",
+    "enchantment.minecraft.blast_protection":"Bulwark",
+    "enchantment.minecraft.projectile_protection":"Pursuer",
+    "enchantment.minecraft.bane_of_arthropods":"Entanglement",
+
+    "enchantment.bittersweet_supplement.decay": "Decay",
+    "enchantment.bittersweet_supplement.blood_soaked": "Blood-Soaked",
+    "enchantment.bittersweet_supplement.retaliation": "Retaliation",
+    "enchantment.bittersweet_supplement.barbed": "Barbed",
+
+    "item.minecraft.rabbit_stew": "Stew",
+    "item.minecraft.bee_spawn_egg": "Dough",
+    "item.minecraft.husk_spawn_egg": "Chocolate Chip Cookie Dough",
+
+    "item.minecraft.knowledge_book": "Empty Boon",
+
+    "item.minecraft.golden_sword": "Gilded Sword",
+    "item.minecraft.golden_spear": "Gilded Spear",
+    "item.minecraft.golden_axe": "Gilded Axe",
+    "item.minecraft.golden_pickaxe": "Gilded Pickaxe",
+    "item.minecraft.golden_shovel": "Gilded Shovel",
+    "item.minecraft.golden_hoe": "Gilded Hoe",
+
+    "item.minecraft.golden_helmet": "Gilded Helmet",
+    "item.minecraft.golden_chestplate": "Gilded Chestplate",
+    "item.minecraft.golden_leggings": "Gilded Leggings",
+    "item.minecraft.golden_boots": "Gilded Greaves",
+
+    "item.minecraft.diamond_boots": "Diamond Greaves",
+    "item.minecraft.iron_boots": "Iron Greaves",
+    "item.minecraft.chainmail_boots": "Chainmail Greaves",
+    "item.minecraft.copper_boot": "Copper Greaves",
+    "item.minecraft.leather_boots": "Leather Greaves",
+
+    "item.minecraft.netherite_ingot": "Abyssal Ingot",
+    "item.minecraft.netherite_scrap": "Ancient Scrap",
+    "item.minecraft.netherite_upgrade_smithing_template": "Abyssal Upgrade",
+
+    "item.minecraft.netherite_sword": "Abyssal Sword",
+    "item.minecraft.netherite_spear": "Abyssal Spear",
+    "item.minecraft.netherite_axe": "Abyssal Axe",
+    "item.minecraft.netherite_pickaxe": "Abyssal Pickaxe",
+    "item.minecraft.netherite_shovel": "Abyssal Shovel",
+    "item.minecraft.netherite_hoe": "Abyssal Hoe",
+
+    "item.minecraft.netherite_helmet": "Abysswalker Helm",
+    "item.minecraft.netherite_chestplate": "Abysswalker Carapace",
+    "item.minecraft.netherite_leggings": "Abysswalker Leggings",
+    "item.minecraft.netherite_boots": "Abysswalker Greaves",
+
+    "item.minecraft.wooden_spear": "Flint Spear",
+    "item.minecraft.wooden_pickaxe": "Flint Pickaxe",
+    "item.minecraft.wooden_axe": "Flint Axe",
+
+    "item.minecraft.mace": "Wind Mace",
+    "item.minecraft.trident":"Hadal Trident",
+
+    "item.minecraft.quartz":"Quartz",
+
+    "item.minecraft.ender_eye":"Blooming Abyss",
+    "item.minecraft.ender_pearl":"Abyssal Petal",
+
+    "container.inventory": "",
+    "container.chest": "",
+    "container.large_chest": "",
+    "container.ender_chest": "",
+    "container.loom": "",
+    "container.crafting": "",
+    "container.anvil": "",
+    "container.furnace": "",
+    "container.smoker": "",
+    "container.blast_furnace": "",
+    "container.grindstone": "",
+    "container.smithing_table": "",
+    "container.stonecutter": "",
+    "container.cartography_table": "",
+    "container.upgrade": "",
+    "container.shulkerBox": ""
+
+}
