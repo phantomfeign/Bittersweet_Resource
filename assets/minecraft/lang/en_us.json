@@ -40,10 +40,7 @@
 
     "item.minecraft.netherite_ingot": "Tenebrium Ingot",
     "item.minecraft.netherite_scrap": "Tenebrium Scrap",
-    "item.minecraft.smithing_template.netherite_upgrade": "Tenebrium Upgrade",
-    "item.minecraft.netherite_upgrade_smithing_template": "Tenebrium Upgrade",
-    "upgrade.minecraft.netherite_upgrade": "Tenebrium Upgrade",
-    "item.minecraft.smithing_template.netherite_upgrade.title": "Tenebrium Upgrade",
+    "item.minecraft.netherite_upgrade_smithing_template.new": "Tenebrium Upgrade",
     
     "item.minecraft.netherite_sword": "Tenebrium Sword",
     "item.minecraft.netherite_spear": "Tenebrium Spear",
