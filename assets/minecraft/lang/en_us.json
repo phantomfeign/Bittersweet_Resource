@@ -3,7 +3,7 @@
     "item.minecraft.pig_spawn_egg": "Abyssal Shard",
     "item.minecraft.chicken_spawn_egg": "Diamond Upgrade",
     "item.minecraft.cow_spawn_egg": "Rough Diamond",
-    "item.minecraft.breeze_spawn_egg": "Prismatic Gem",
+    "item.minecraft.breeze_spawn_egg": "Prismatic Core",
 
     "enchantment.minecraft.fire_protection":"Blazing",
     "enchantment.minecraft.blast_protection":"Bulwark",
@@ -65,7 +65,7 @@
     "item.minecraft.quartz":"Quartz",
 
     "item.minecraft.ender_eye":"Blooming Abyss",
-    "item.minecraft.ender_pearl":"Abyssal Petal",
+    "item.minecraft.ender_pearl":"Abyssal Orb",
 
     "container.inventory": "",
     "container.chest": "",

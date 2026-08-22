@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/prismatic_gem"
+    "model": "minecraft:item/prismatic_core"
   }
 }
