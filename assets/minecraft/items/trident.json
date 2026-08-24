@@ -15,16 +15,9 @@
       }
     ],
     "fallback": {
-      "type": "minecraft:condition",
-      "property": "minecraft:using_item",
-      "on_true": { 
-        "type": "minecraft:model", 
-        "model": "minecraft:item/trident_throwing" 
-      },
-      "on_false": { 
         "type": "minecraft:model", 
         "model": "minecraft:item/trident_in_hand" 
       }
     }
   }
-}
+

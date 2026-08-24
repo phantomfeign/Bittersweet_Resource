@@ -1,0 +1,12 @@
+{
+  "entity.player.attack.crit": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "bittersweet_textures:entity/player/attack/critical",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}
