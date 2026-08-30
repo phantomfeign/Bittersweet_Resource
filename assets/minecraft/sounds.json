@@ -8,5 +8,13 @@
         "pitch": 1.0
       }
     ]
+  },
+    "block.piston.extend": {
+    "replace": true,
+    "sounds": ["block/piston/extend"]
+  },
+  "block.piston.contract": {
+    "replace": true,
+    "sounds": ["block/piston/contract"]
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/rough_diamond"
+    "model": "bittersweet_textures:item/milk_carton"
   }
 }

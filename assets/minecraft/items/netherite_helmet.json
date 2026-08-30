@@ -6,13 +6,10 @@
 			{
         "model": {
 				"type": "minecraft:model",
-				"model": "minecraft:item/netherite_helmet"
+				"model": "bittersweet_textures:item/netherite_helmet"
 				},
 				"when": [
-				"gui",
-				"ground",
-				"fixed",
-				"on_shelf"
+				"head"
 				]
 			}
 		],
