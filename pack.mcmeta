@@ -1,7 +1,19 @@
 {
   "pack": {
-    "description": "Bittersweet Resource Pack",
     "min_format": [84, 0],
-    "max_format": [2147483647, 0]
+    "max_format": [2147483647, 0],
+      "description": [
+      {
+          "text": "Bittersweet Resource v1.0.6 for Java 1.26.2",
+          "color": "#a1d09a"
+      },
+      {
+          "text": "\n"
+      },
+      {
+          "text": "by phantomfeign (1.03; 26.2)",
+          "color": "#767876"
+      }
+    ]
   }
 }
