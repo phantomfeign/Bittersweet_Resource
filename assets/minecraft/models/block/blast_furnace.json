@@ -1,0 +1,44 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"blast_furnace_bottom": "minecraft:block/blast_furnace_bottom",
+		"blast_furnace_top": "minecraft:block/blast_furnace_top",
+		"blast_furnace_side": "minecraft:block/blast_furnace_side",
+		"blast_furnace_front": "minecraft:block/blast_furnace_front",
+        "particle": "#blast_furnace_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#blast_furnace_bottom"
+				},
+				"up": {
+					"texture": "#blast_furnace_top"
+				},
+				"north": {
+					"texture": "#blast_furnace_front"
+				},
+				"south": {
+					"texture": "#blast_furnace_side"
+				},
+				"west": {
+					"texture": "#blast_furnace_side"
+				},
+				"east": {
+					"texture": "#blast_furnace_side"
+				}
+			}
+		}
+	]
+}

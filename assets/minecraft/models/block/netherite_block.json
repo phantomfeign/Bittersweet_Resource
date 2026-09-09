@@ -1,0 +1,42 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"netherite_pillar_end": "minecraft:block/netherite_block_end",
+		"netherite_pillar_side": "minecraft:block/netherite_block_side",
+        "particle": "#netherite_pillar_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#netherite_pillar_end"
+				},
+				"up": {
+					"texture": "#netherite_pillar_end"
+				},
+				"north": {
+					"texture": "#netherite_pillar_side"
+				},
+				"south": {
+					"texture": "#netherite_pillar_side"
+				},
+				"west": {
+					"texture": "#netherite_pillar_side"
+				},
+				"east": {
+					"texture": "#netherite_pillar_side"
+				}
+			}
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/abyssal_shard"
+    "model": "bittersweet_textures:item/abyssal_shard"
   }
 }
