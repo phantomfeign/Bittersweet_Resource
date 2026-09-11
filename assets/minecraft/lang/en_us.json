@@ -9,8 +9,9 @@
     "item.minecraft.horse_spawn_egg": "Bronze Ingot",
     "item.minecraft.donkey_spawn_egg": "Bronze Nugget",
     "item.minecraft.wither_skeleton_spawn_egg": "Overseer's Veil",
+    "item.minecraft.zombie_spawn_egg": "Fiber Cordage",
     "item.minecraft.salmon_spawn_egg": "Prismarine Laurel",
-    "item.minecraft.endermite_spawn_egg": "Vial of Ichor",
+    
     "enchantment.minecraft.fire_protection":"Blazing",
     "enchantment.minecraft.blast_protection":"Bulwark",
     "enchantment.minecraft.projectile_protection":"Pursuer",
