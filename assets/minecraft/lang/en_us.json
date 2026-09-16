@@ -6,6 +6,7 @@
     "item.minecraft.allay_spawn_egg": "Rough Diamond",
     "item.minecraft.breeze_spawn_egg": "Prismatic Core",
     "item.minecraft.skeleton_spawn_egg": "Bundle of Arrows",
+    "item.minecraft.stray_spawn_egg": "Hip Quiver",
     "item.minecraft.horse_spawn_egg": "Bronze Ingot",
     "item.minecraft.donkey_spawn_egg": "Bronze Nugget",
     "item.minecraft.wither_skeleton_spawn_egg": "Overseer's Veil",
@@ -18,11 +19,15 @@
     "enchantment.minecraft.bane_of_arthropods":"Entanglement",
     "enchantment.minecraft.quick_charge":"Quick Draw",
 
+    "enchantment.bittersweet_supplement.bow_mechanics": "test",
+    "enchantment.bittersweet_supplement.shortbow": "Short Draw",
+
     "enchantment.bittersweet_supplement.decay": "Decay",
+    "enchantment.bittersweet_supplement.hook": "Hooking",
+    "enchantment.bittersweet_supplement.high_stride": "High Stride",
     "enchantment.bittersweet_supplement.blood_soaked": "Bloodthirsty",
     "enchantment.bittersweet_supplement.retaliation": "Retaliation",
     "enchantment.bittersweet_supplement.barbed": "Barbed",
-    "enchantment.bittersweet_supplement.shortbow": "Short Draw",
     "enchantment.bittersweet_supplement.beheading": "Beheading",
 
     "item.minecraft.rabbit_stew": "Stew",
@@ -36,6 +41,10 @@
     "block.minecraft.nether_quartz_ore":"Bronze Ore",
     "block.minecraft.nether_gold_ore":"Shattered Gold Ore",
     "block.minecraft.netherrack":"Infernal Quartz",
+
+    "item.minecraft.smoker": "Oven",
+    "block.minecraft.smoker": "Oven",
+
 
     "block.minecraft.comparator":"Differential Amplifier",
     "block.minecraft.repeater":"Delayed Amplifier",
