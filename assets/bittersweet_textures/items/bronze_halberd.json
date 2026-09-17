@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "bittersweet_textures:item/copper_claymore"
+          "model": "bittersweet_textures:item/bronze_halberd"
         },
         "when": [
           "gui",
@@ -17,7 +17,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "bittersweet_textures:item/copper_claymore_in_hand"
+      "model": "bittersweet_textures:item/bronze_halberd_in_hand"
     },
     "property": "minecraft:display_context"
   },

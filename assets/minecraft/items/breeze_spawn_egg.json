@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/prismatic_core"
+    "model": "bittersweet_textures:item/prismatic_core"
   }
 }

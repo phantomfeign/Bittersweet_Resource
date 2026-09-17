@@ -12,6 +12,7 @@
     "item.minecraft.wither_skeleton_spawn_egg": "Overseer's Veil",
     "item.minecraft.zombie_spawn_egg": "Fiber Cordage",
     "item.minecraft.salmon_spawn_egg": "Prismarine Laurel",
+    "item.minecraft.piglin_spawn_egg": "Bronze Plating",
     
     "enchantment.minecraft.fire_protection":"Blazing",
     "enchantment.minecraft.blast_protection":"Bulwark",
@@ -19,7 +20,7 @@
     "enchantment.minecraft.bane_of_arthropods":"Entanglement",
     "enchantment.minecraft.quick_charge":"Quick Draw",
 
-    "enchantment.bittersweet_supplement.bow_mechanics": "test",
+    "enchantment.bittersweet_supplement.bow_mechanics": "",
     "enchantment.bittersweet_supplement.shortbow": "Short Draw",
 
     "enchantment.bittersweet_supplement.decay": "Decay",
