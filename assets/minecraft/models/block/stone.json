@@ -1,0 +1,42 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"stone_top": "minecraft:block/stone_top",
+		"stone_side": "minecraft:block/stone",
+        "particle": "#stone_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#stone_top"
+				},
+				"up": {
+					"texture": "#stone_top"
+				},
+				"north": {
+					"texture": "#stone_side"
+				},
+				"south": {
+					"texture": "#stone_side"
+				},
+				"west": {
+					"texture": "#stone_side"
+				},
+				"east": {
+					"texture": "#stone_side"
+				}
+			}
+		}
+	]
+}

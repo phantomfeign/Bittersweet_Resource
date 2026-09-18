@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": "bittersweet_textures:block/sugar_cane6"
+  }
+}
