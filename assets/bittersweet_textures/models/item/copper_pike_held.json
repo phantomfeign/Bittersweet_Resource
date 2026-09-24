@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "bittersweet_textures:item/copper_pike_held"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [0, 90, -60],
+      "translation": [0,-3,0],
+      "scale": [2.4,2.4,0.8]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -90, 60],
+      "translation": [0,-3,0],
+      "scale": [2.4,2.4,0.8]
+    },
+    "thirdperson_righthand": {
+      "rotation": [0, 90, 0],
+      "translation": [0,10,12],
+      "scale": [3,3,1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0,10,12],
+      "scale": [3,3,1]
+    }
+  }
+}

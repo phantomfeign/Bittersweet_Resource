@@ -13,7 +13,11 @@
     "item.minecraft.zombie_spawn_egg": "Fiber Cordage",
     "item.minecraft.salmon_spawn_egg": "Prismarine Laurel",
     "item.minecraft.piglin_spawn_egg": "Bronze Alloy",
-    
+    "item.minecraft.axolotl_spawn_egg": "Amethyst Shard",
+    "item.minecraft.villager_spawn_egg": "Empty Boon",
+
+    "item.minecraft.amethyst_shard": "Amethyst Crystal",
+
     "enchantment.minecraft.fire_protection":"Blazing",
     "enchantment.minecraft.blast_protection":"Bulwark",
     "enchantment.minecraft.projectile_protection":"Pursuer",
@@ -34,8 +38,6 @@
     "item.minecraft.rabbit_stew": "Stew",
     "item.minecraft.bee_spawn_egg": "Dough",
     "item.minecraft.husk_spawn_egg": "Chocolate Chip Cookie Dough",
-
-    "item.minecraft.villager_spawn_egg": "Empty Boon",
 
     "block.minecraft.end_rod":"Light Rod",
 
