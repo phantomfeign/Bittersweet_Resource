@@ -13,11 +13,11 @@
     "item.minecraft.allay_spawn_egg": "Rough Diamond",
     "item.minecraft.breeze_spawn_egg": "Prismatic Core",
     "item.minecraft.skeleton_spawn_egg": "Bundle of Arrows",
-    "item.minecraft.stray_spawn_egg": "Hip Quiver",
+    "item.minecraft.stray_spawn_egg": "Arrow Cartridge",
     "item.minecraft.horse_spawn_egg": "Bronze Ingot",
     "item.minecraft.donkey_spawn_egg": "Bronze Nugget",
     "item.minecraft.wither_skeleton_spawn_egg": "Overseer's Veil",
-    "item.minecraft.zombie_spawn_egg": "Fiber Cordage",
+    "item.minecraft.zombie_spawn_egg": "Cordage",
     "item.minecraft.salmon_spawn_egg": "Prismarine Laurel",
     "item.minecraft.axolotl_spawn_egg": "Amethyst Shards",
     "item.minecraft.villager_spawn_egg": "Empty Boon",
@@ -49,16 +49,16 @@
     "enchantment.minecraft.looting":"Looting | Increases ore drops. | Level",
     "enchantment.minecraft.luck_of_the_sea":"Luring | Increases fishing speed and luck.",
 
-    "enchantment.minecraft.bane_of_arthropods":"Entanglement | Deals an additional 4🗡 to spiders & creepers, and inflicts slowness.",
-    "enchantment.minecraft.sharpness":"Laceration | Deals an additional 2🗡 after a short delay",
+    "enchantment.minecraft.sharpness":"Laceration | Inflicts a stack of Lacerated. Deals damage periodically based on stacks.",
     "enchantment.minecraft.smite":"Smite | Deals an additional 2🗡 to undead and inflicts weakness.",
+    "enchantment.minecraft.bane_of_arthropods":"Desperation | Gains lifesteal and damage closer to death.",
 
     "enchantment.minecraft.sweeping_edge":"Sweeping Edge | Sweep attacks have no damage falloff.",
     
     "enchantment.minecraft.knockback":"Knockback | Attacks have more knockback.",
 
     "enchantment.minecraft.flame":"Flame | Arrows ignite foes.",
-    "enchantment.minecraft.fire_aspect":"Molten | Attacks ignite foes; smelts mined ores.",
+    "enchantment.minecraft.fire_aspect":"Molten | Attacks ignite foes and smelts mined ores.",
 
     "enchantment.minecraft.density":"Density | Deals more damage with slam attacks.",
     "enchantment.minecraft.breach":"Breach | Penetrates armor.",
@@ -70,19 +70,28 @@
     "enchantment.minecraft.channeling":"Channeling | Has a chance to land with lightning. Guaranteed under rain.",
 
     "enchantment.minecraft.quick_charge":"Quick Charge | Loads arrows faster.",
-    "enchantment.minecraft.power":"Power | Shot arrows deal more damage.",
-    "enchantment.minecraft.punch":"Punch | Shot projectiles have more knockback.",
+    "enchantment.minecraft.power":"Sharpshooter | Shot arrows fly at ludicrous speeds.",
+    "enchantment.minecraft.punch":"Punch | Shot arrows have more knockback.",
     "enchantment.minecraft.piercing":"Piercing | Passes through up to 3 targets.",
-    "enchantment.minecraft.multishot":"Multishot | Fires multiple projectiles at once, splitting damage. | Level",
-    "enchantment.minecraft.infinity":"Infinity | Creates slightly weaker arrows infinitely.",
+    "enchantment.minecraft.multishot":"Multishot | Fires multiple arrows at once, splitting damage.",
+    "enchantment.minecraft.infinity":"Infinity | Shoots arrows infinitely.",
 
+    "enchantment.bittersweet_supplement.floruption": "Floruption | Landing CRITs on foes summons homing spores.",
     "enchantment.bittersweet_supplement.decay": "Decay | Inflicts wither.",
     "enchantment.bittersweet_supplement.bounding": "Bounding | Allows you to double jump.",
     "enchantment.bittersweet_supplement.dashing": "Dashing 2⌚ | Dash by sneaking midair.",
+
     "enchantment.bittersweet_supplement.downdraft": "Downdraft | Allows you to pick up speed while flying downward.",
-    "enchantment.bittersweet_supplement.hook": "Hooking | Pulls targets towards you",
     "enchantment.bittersweet_supplement.high_stride": "High Stride | Allows you to walk up single blocks.",
-    "enchantment.bittersweet_supplement.blood_soaked": "Bloodthirsty | Recovers 1 durability on CRITs, but deals -1🗡 | Level",
+
+    "enchantment.bittersweet_supplement.overload": "Overload | Allows you to load 5 arrows at once.",
+    "enchantment.bittersweet_supplement.hefty": "Hefty | Must be held in your dominant hand.",
+
+    "enchantment.bittersweet_supplement.verdure": "Verdure | Poisons foes and mends itself in sunlight",
+    "enchantment.bittersweet_supplement.blood_soaked": "Bloodthirsty | Mends itself on CRITs, but deals -2🗡.",
+
+    "enchantment.bittersweet_supplement.frostbite":"Frostbite | Leaves volatile ice statues in its wake.",
+    "enchantment.bittersweet_supplement.hook": "Hooking | Pulls targets towards you",
     "enchantment.bittersweet_supplement.retaliation": "Retaliation",
     "enchantment.bittersweet_supplement.barbed": "Barbed",
     "enchantment.bittersweet_supplement.beheading": "Beheading | Increases head drop chance",
@@ -99,7 +108,10 @@
 
     "item.minecraft.smoker": "Oven",
     "block.minecraft.smoker": "Oven",
-
+    "item.minecraft.beetroot_soup": "Milk Carton",
+    "item.minecraft.beetroot": "Onion",
+    "item.minecraft.beetroot_seeds": "Onion Seeds",
+    "block.minecraft.beetroots": "Onions",
 
     "block.minecraft.comparator":"Differential Amplifier",
     "block.minecraft.repeater":"Delayed Amplifier",

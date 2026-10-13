@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bittersweet_textures:item/rimed_stiletto"
+  },	
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50,-90,0],
+			"translation": [0,-7,1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50,90,0],
+			"translation": [0,-7,1]
+		},
+		"firstperson_righthand": {
+			"rotation": [30,90,0],
+			"translation": [0,3,-2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [30,-90,0],
+			"translation": [0,3,-2]
+		}
+	}
+}
