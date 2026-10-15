@@ -92,10 +92,10 @@
     "enchantment.bittersweet_supplement.blood_soaked": "Bloodthirsty | Mends itself on CRITs, but deals -2🗡.",
 
     "enchantment.bittersweet_supplement.frostbite":"Frostbite | Leaves volatile ice statues in its wake.",
-    "enchantment.bittersweet_supplement.hook": "Hooking | Pulls targets towards you",
+    "enchantment.bittersweet_supplement.hook": "Hooking | Pulls targets towards you.",
+    "enchantment.bittersweet_supplement.beheading": "Beheading | Increases head drop chance.",
     "enchantment.bittersweet_supplement.retaliation": "Retaliation",
     "enchantment.bittersweet_supplement.barbed": "Barbed",
-    "enchantment.bittersweet_supplement.beheading": "Beheading | Increases head drop chance",
 
     "item.minecraft.rabbit_stew": "Stew",
     "item.minecraft.bee_spawn_egg": "Dough",
