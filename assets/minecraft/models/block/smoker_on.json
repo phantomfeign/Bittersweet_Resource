@@ -1,0 +1,44 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"smoker_bottom": "minecraft:block/smoker_bottom",
+		"smoker_top": "minecraft:block/smoker_top",
+		"smoker_side": "minecraft:block/smoker_side",
+		"smoker_front": "minecraft:block/smoker_front_on",
+        "particle": "#smoker_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#smoker_bottom"
+				},
+				"up": {
+					"texture": "#smoker_top"
+				},
+				"north": {
+					"texture": "#smoker_front"
+				},
+				"south": {
+					"texture": "#smoker_side"
+				},
+				"west": {
+					"texture": "#smoker_side"
+				},
+				"east": {
+					"texture": "#smoker_side"
+				}
+			}
+		}
+	]
+}

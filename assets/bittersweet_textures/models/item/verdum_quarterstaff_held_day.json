@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "bittersweet_textures:item/verdum_quarterstaff_held_day"
+  }
+}

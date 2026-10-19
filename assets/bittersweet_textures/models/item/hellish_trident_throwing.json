@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "bittersweet_textures:item/hellish_trident_throwing"
+  },
+  "display": {
+    "firstperson_righthand":{
+      "scale": [0.8,0.8,0.3],
+      "rotation": [0,90,120],
+      "translation": [1,-10,0]
+    } 
+  }
+}

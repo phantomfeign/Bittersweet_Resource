@@ -2,8 +2,7 @@
 	"model": {
 		"type": "minecraft:select",
 		"property": "minecraft:charge_type",
-		"cases": [
-			{
+		"cases": [{
         "when": "none",
 				"model": {
 					"type": "minecraft:range_dispatch",

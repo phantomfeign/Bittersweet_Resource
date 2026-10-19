@@ -1,0 +1,43 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"jukebox_bottom": "minecraft:block/jukebox_bottom",
+		"jukebox_top": "minecraft:block/jukebox_top",
+		"jukebox_side": "minecraft:block/jukebox_side",
+        "particle": "#jukebox_side"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				16,
+				16
+			],
+			"faces": {
+				"down": {
+					"texture": "#jukebox_bottom"
+				},
+				"up": {
+					"texture": "#jukebox_top"
+				},
+				"north": {
+					"texture": "#jukebox_side"
+				},
+				"south": {
+					"texture": "#jukebox_side"
+				},
+				"west": {
+					"texture": "#jukebox_side"
+				},
+				"east": {
+					"texture": "#jukebox_side"
+				}
+			}
+		}
+	]
+}
