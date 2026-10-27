@@ -31,7 +31,7 @@
     "enchantment.minecraft.fire_protection":"Blazing | Resists fire and ignites attackers.",
     "enchantment.minecraft.blast_protection":"Bulwark | Resists explosions and knockback.",
     "enchantment.minecraft.projectile_protection":"Pursuer | Resists projectiles and grants speed when hit.",
-    "enchantment.minecraft.protection":"Dampening | Resists melee attacks..",
+    "enchantment.minecraft.protection":"Dampening | Resists melee attacks.",
 
     "enchantment.minecraft.aqua_affinity":"Aqua Affinity | Increases breath and mining speed underwater.",
     "enchantment.minecraft.depth_strider":"Depth Strider | Increases speed underwater.",
@@ -52,7 +52,7 @@
 
     "enchantment.minecraft.sharpness":"Laceration | Inflicts a stack of Lacerated. Deals damage periodically based on stacks.",
     "enchantment.minecraft.smite":"Smite | Deals an additional 2🗡 to undead and inflicts weakness.",
-    "enchantment.minecraft.bane_of_arthropods":"Desperation | Gains lifesteal and damage closer to death.",
+    "enchantment.minecraft.bane_of_arthropods":"Desperation | Gains lifesteal and attack speed closer to death.",
 
     "enchantment.minecraft.sweeping_edge":"Sweeping Edge | Sweep attacks have no damage falloff.",
     
@@ -68,13 +68,14 @@
     "enchantment.minecraft.lunge":"Lunge 3⌚ | Provides a quick burst of speed.",
     "enchantment.minecraft.riptide":"Riptide | Launches you while in water or rain.",
     "enchantment.minecraft.loyalty":"Loyalty | Returns to you when thrown.",
-    "enchantment.minecraft.channeling":"Channeling | Has a chance to land with lightning. Guaranteed under rain.",
+    "enchantment.minecraft.channeling":"Channeling | Has a chance to strike with lightning; 100“%%” under rain.",
+    "enchantment.bittersweet_supplement.viper": "Viper | Launches you on command at the cost of health.",
 
     "enchantment.minecraft.quick_charge":"Quick Charge | Loads arrows faster.",
     "enchantment.minecraft.power":"Sharpshooter | Shot arrows fly at ludicrous speeds.",
     "enchantment.minecraft.punch":"Punch | Shot arrows have more knockback.",
     "enchantment.minecraft.piercing":"Piercing | Passes through up to 3 targets.",
-    "enchantment.minecraft.multishot":"Multishot | Fires multiple arrows at once, splitting damage.",
+    "enchantment.minecraft.multishot":"Multishot | Fires multiple arrows at once.",
     "enchantment.minecraft.infinity":"Infinity | Shoots arrows infinitely.",
 
     "enchantment.bittersweet_supplement.floruption": "Floruption | Landing CRITs on foes summons homing spores.",
@@ -110,6 +111,7 @@
     "item.minecraft.smoker": "Oven",
     "block.minecraft.smoker": "Oven",
     "item.minecraft.beetroot_soup": "Milk Carton",
+    "item.minecraft.wheat": "Straw",
     "item.minecraft.beetroot": "Onion",
     "item.minecraft.beetroot_seeds": "Onion Seeds",
     "block.minecraft.beetroots": "Onions",

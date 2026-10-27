@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "bittersweet_textures:item/verdum_pulaski_day"
+    "layer0": "bittersweet_textures:item/verdum_piercer"
   }
 }

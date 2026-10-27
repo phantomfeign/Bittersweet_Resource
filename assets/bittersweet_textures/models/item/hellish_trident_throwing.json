@@ -4,10 +4,15 @@
     "layer0": "bittersweet_textures:item/hellish_trident_throwing"
   },
   "display": {
-    "firstperson_righthand":{
-      "scale": [0.8,0.8,0.3],
-      "rotation": [0,90,120],
-      "translation": [1,-10,0]
-    } 
+    "firstperson_righthand": { 
+      "scale": [0.8, 0.8, 0.3], 
+      "rotation": [0, 90, 120], 
+      "translation": [1, -10, 0] 
+    }, 
+    "firstperson_lefthand": { 
+      "scale": [0.8, 0.8, 0.3], 
+      "rotation": [0, -90, -120], 
+      "translation": [1, -10, 0] 
+    }
   }
 }
