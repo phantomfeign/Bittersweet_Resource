@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": {
+    "layer0": "bswt_texture:item/gilded_crossbow_pulling_1"
+  }
+}

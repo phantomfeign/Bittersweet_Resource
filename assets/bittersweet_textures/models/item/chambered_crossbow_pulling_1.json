@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/crossbow",
-  "textures": {
-    "layer0": "bittersweet_textures:item/chambered_crossbow_pulling_1"
-  }
-}

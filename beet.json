@@ -1,0 +1,23 @@
+{
+    "minecraft": "26.2",
+    "name": "Bittersweet Resource",
+    "description": "Bittersweet Resource for Java 26.2",
+    "require": [
+        "bolt"
+    ],
+    "resource_pack": {
+        "name": "Bittersweet_Resource",
+        "load": ["src"]
+    },
+    "pipeline": [
+        "mecha"
+    ],
+    "output": "/Users/levlko/Library/Application Support/minecraft/resourcepacks",
+    "meta": {
+        "bolt": {
+            "entrypoint": [
+                "beet:all"
+            ]
+        }
+    }
+}

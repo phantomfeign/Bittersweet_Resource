@@ -1,0 +1,103 @@
+ from beet import Model, JsonFile
+
+def add_item(name: str, parent: str = "minecraft:item/generated"):
+    # Creates assets/<namespace>/models/item/<name>.json
+    ctx.assets[f"bswt_texture:item/{name}"] = Model({
+        "parent": parent,
+        "textures": {
+            "layer0": f"bswt_texture:item/{name}"
+        }
+    })
+
+    # Creates assets/<namespace>/items/<name>.json
+    ctx.assets.extra[f"assets/bswt_texture/items/{name}.json"] = JsonFile({
+        "model": {
+            "type": "minecraft:model",
+            "model": f"bswt_texture:item/{name}"
+        }
+    })
+
+def add_spear(name: str):
+    # Creates GUI / ground / item frame model: assets/bswt_texture/models/item/<name>.json
+    ctx.assets[f"bswt_texture:item/{name}"] = Model({
+        "parent": "minecraft:item/generated",
+        "textures": {
+            "layer0": f"bswt_texture:item/{name}"
+        }
+    })
+
+    # Creates held model: assets/bswt_texture/models/item/<name>_held.json
+    ctx.assets[f"bswt_texture:item/{name}_held"] = Model({
+        "parent": "minecraft:item/spear_in_hand",
+        "textures": {
+            "layer0": f"bswt_texture:item/{name}_held"
+        }
+    })
+
+    # Creates item definition switching between GUI and held models: assets/bswt_texture/items/<name>.json
+    ctx.assets.extra[f"assets/bswt_texture/items/{name}.json"] = JsonFile({
+        "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:display_context",
+            "cases": [
+                {
+                    "when": ["gui", "ground", "fixed"],
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": f"bswt_texture:item/{name}"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": f"bswt_texture:item/{name}_held"
+            }
+        }
+    })
+
+HANDHELD_ITEMS = [
+    "bronze_chestplate",
+    "bronze_leggings",
+    "bronze_boots",
+    "bronze_rapier",
+    "bronze_bronze_upgrade_template",
+
+    "copper_shears",
+
+    "copper_mattock",
+    "iron_mattock",
+    "verdum_mattock",
+    "golden_mattock",
+    "diamond_mattock",
+    "netherite_mattock",
+
+    "copper_pulaski",
+    "iron_pulaski",
+    "verdum_pulaski",
+    "golden_pulaski",
+    "diamond_pulaski",
+    "netherite_pulaski",
+
+    "crystalline_candle",
+    "crucifix",
+
+    "rose_gold_chestplate",
+    "rose_gold_leggings",
+    "rose_gold_boots",
+    "rose_gold_ingot",
+    "rose_gold_sword",
+    "rose_gold_axe",
+    "rose_gold_pickaxe",
+    "rose_gold_shovel",
+    "rose_gold_hoe"
+]
+
+SPEAR_ITEMS = [
+    "rose_gold_spear"
+]
+
+for item in HANDHELD_ITEMS:
+    add_item(item, "minecraft:item/handheld")
+
+for item in SPEAR_ITEMS:
+    add_spear(item)

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "bswt_texture:item/verdum_quarterstaff_held"
+  }
+}
